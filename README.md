@@ -1,5 +1,4 @@
-@Assignement 3
-@Student: Antoine Goujon
+# Implementation of RFC8439 for my advanced crypto course
 
 Please find the code in the files:
     Chacha20.py
@@ -10,6 +9,3 @@ Please find the code in the files:
 You may run the demo script demo.py for a small demonstration.
 
 You also may run the test scripts (run all_tests.py) to simply run the code with most of the tests vectors provided in the RFC.
-
-Best,
-Antoine
